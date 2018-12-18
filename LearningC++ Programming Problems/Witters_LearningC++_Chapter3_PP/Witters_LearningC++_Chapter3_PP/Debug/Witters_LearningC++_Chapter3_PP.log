@@ -1,0 +1,6 @@
+﻿  Witters_LearningC++_Chapter3_PP.cpp
+c:\users\user\documents\learningc++ programming problems\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\user\documents\learningc++ programming problems\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\user\documents\learningc++ programming problems\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\user\documents\learningc++ programming problems\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp\witters_learningc++_chapter3_pp.cpp(220): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Witters_LearningC++_Chapter3_PP.vcxproj -> C:\Users\User\Documents\LearningC++ Programming Problems\Witters_LearningC++_Chapter3_PP\Debug\Witters_LearningC++_Chapter3_PP.exe
